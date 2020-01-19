@@ -47,13 +47,13 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: leon-1996 #github username
+username: leon1996 #github username
 repo: leon-1996 #github repository
 branch: master #branch
-relative_source: ../leon-1996/ #source directory
-destination: ../leon-1996-pages/ #destination directory
+relative_source: ../leon1996/ #source directory
+destination: ../leon1996-pages/ #destination directory
 production_url:  https://leon-1996.github.io/
-source_url:  https://leon-1996.github.io/leon-1996 #source repository url
+source_url:  https://leon-1996.github.io/ #source repository url
 
 exclude:
   - README.md
